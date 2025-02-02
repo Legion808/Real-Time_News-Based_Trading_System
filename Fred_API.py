@@ -2,7 +2,7 @@ import requests
 import json
 
 # API settings
-FRED_API_KEY = "3846ed74ff804cd4f6d7d34df35e0ba9"  # Replace with your API key
+FRED_API_KEY = "Your_Fred_API_key"  # Replace with your API key
 SERIES_IDS = ["UNRATE", "CPIAUCSL", "PCE", "DGS10", "DGS2"]  # Economic indicators
 BASE_URL = "https://api.stlouisfed.org/fred/series/observations"
 N = 5  # Number of most recent data points to fetch
