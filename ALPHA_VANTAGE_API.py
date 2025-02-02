@@ -1,7 +1,7 @@
 import requests
 
 # Alpha Vantage API kaliti
-ALPHA_VANTAGE_API_KEY = "5W3TM9B33FLNODZ1"
+ALPHA_VANTAGE_API_KEY = "Your_API"
 
 # API URL
 ALPHA_VANTAGE_URL = "https://www.alphavantage.co/query"
