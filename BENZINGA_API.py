@@ -2,7 +2,7 @@ import requests
 
 # Benzinga API URL va API kalitini to'g'ri qo'yish
 url = "https://api.benzinga.com/api/v2/news"
-api_key = "3e990c1098914084a0b864d0d251a047"  # o'zingizning API kalitingizni bu yerga qo'ying
+api_key = "Your_API_key"  # o'zingizning API kalitingizni bu yerga qo'ying
 
 # API parametrlarini sozlash
 params = {
