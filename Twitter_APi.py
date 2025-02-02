@@ -1,6 +1,6 @@
 import requests
 import json
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAFCNygEAAAAANg%2Fdbne7hty8TIKTlbihtXJrHt4%3DHnVKiyrKiFTuTWwQso5I8kwiKuby7S4W7e003VdWvZmUyHoVVJ"
+BEARER_TOKEN = "Your_API"
 
 
 def fetch_tweets(query, max_results=100):
