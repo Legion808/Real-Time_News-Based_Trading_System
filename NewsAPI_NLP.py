@@ -1,7 +1,7 @@
 import requests
 import json
 
-NEWS_API_KEY = "ca4c112b25d84ed0af84cb31a8e38497"
+NEWS_API_KEY = "Your_news_API_Key"
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 
 params = {
