@@ -1,0 +1,2130 @@
+{
+    "items": "48",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Apple, Exxon Mobil And 3 Stocks To Watch Heading Into Friday - Apple  ( NASDAQ:AAPL ) , Chevron  ( NYSE:CVX ) ",
+            "url": "https://www.benzinga.com/news/earnings/25/01/43379598/apple-exxon-mobil-and-3-stocks-to-watch-heading-into-friday",
+            "time_published": "20250131T105709",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "With U.S. stock futures trading higher this morning on Friday, some of the stocks that may grab investor focus today are as follows: Wall Street expects Exxon Mobil Corporation XOM to report quarterly earnings at $1.56 per share on revenue of $86.63 billion before the opening bell, according to ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/What-Happened_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.997874"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.268759,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.457566",
+                    "ticker_sentiment_score": "0.147256",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.352223",
+                    "ticker_sentiment_score": "0.27486",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PSX",
+                    "relevance_score": "0.352223",
+                    "ticker_sentiment_score": "-0.062196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.352223",
+                    "ticker_sentiment_score": "0.398762",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.352223",
+                    "ticker_sentiment_score": "0.486209",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Interim report for Q1 of 2024/25  ( the period 01.10.2024 - 31.12.2024 ) ",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018642/0/en/Interim-report-for-Q1-of-2024-25-the-period-01-10-2024-31-12-2024.html",
+            "time_published": "20250131T105500",
+            "authors": [
+                "RTX A/S"
+            ],
+            "summary": "N\u00f8rresundby, Denmark, 31 January 2025Announcement no. ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/4d620d07-279f-477f-a975-50fdc8eb53d8",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.929393"
+                }
+            ],
+            "overall_sentiment_score": 0.185117,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DNSKF",
+                    "relevance_score": "0.152499",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "DeepSeek's AI Model Shook Wall Street, But A New Report Says Chinese State Accounts Helped Fan The Flames - Meta Platforms  ( NASDAQ:META ) , NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/25/01/43379565/deepseeks-ai-model-shook-wall-street-but-a-new-report-says-chinese-state-accounts-helped-fan-the-flames",
+            "time_published": "20250131T105446",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Chinese state-affiliated social media accounts reportedly promoted DeepSeek's AI models, just days before a significant downturn in U.S. tech stocks. What Happened: These accounts, including those of Chinese diplomats and state media, amplified media coverage of DeepSeek's launch, reported ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/What-Happened.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.117059,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.357293",
+                    "ticker_sentiment_score": "0.365814",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.24289",
+                    "ticker_sentiment_score": "-0.16416",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "WB",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.176693",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bavarian Nordic Receives Positive CHMP Opinion for Chikungunya Vaccine for Persons Aged 12 and Older",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018640/0/en/Bavarian-Nordic-Receives-Positive-CHMP-Opinion-for-Chikungunya-Vaccine-for-Persons-Aged-12-and-Older.html",
+            "time_published": "20250131T105000",
+            "authors": [
+                "Bavarian Nordic A/S"
+            ],
+            "summary": "COPENHAGEN, Denmark, January 31, 2025 - Bavarian Nordic A/S ( OMX: BAVA ) today announced that the Committee for Medicinal Products for Human Use ( CHMP ) of the European Medicines Agency ( EMA ) has adopted a positive opinion recommending marketing authorization for VIMKUNYA\u00ae ( CHIKV VLP ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [],
+            "overall_sentiment_score": 0.024216,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BVNKF",
+                    "relevance_score": "0.041039",
+                    "ticker_sentiment_score": "0.050187",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "TotalEnergies chooses IFS for global asset management transformation",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n43379281/totalenergies-chooses-ifs-for-global-asset-management-transformation",
+            "time_published": "20250131T103900",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "IFS solution will complete energy giant's strategic industry backbone, integrating with TotalEnergies' global ERP to turbocharge asset performance and profitability.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.382513,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TTE",
+                    "relevance_score": "0.500995",
+                    "ticker_sentiment_score": "0.552083",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "What We Know About the Federal Funding Freeze's Effects on Social Security and Medicare So Far",
+            "url": "https://www.fool.com/retirement/2025/01/31/what-we-know-about-the-federal-funding-freeze-impa/",
+            "time_published": "20250131T102500",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Will the federal government freeze financial assistance or not? Who will be affected if it does?Those questions have been asked many times this week after Matthew Vaeth, the Trump administration's acting director of the Office of Management and Budget ( OMB ) , issued a memorandum on Jan. 27, ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805813%2Fthe-white-house-logo.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.095376,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Could Investing $25,000 in the Vanguard S&P 500 ETF Make You a Millionaire?",
+            "url": "https://www.fool.com/investing/2025/01/31/could-investing-25000-in-vanguard-sp-500-etf-make/",
+            "time_published": "20250131T102300",
+            "authors": [
+                "Justin Pope"
+            ],
+            "summary": "In a highly dynamic, technology-driven stock market, there is one constant investors can count on to generate long-term results.",
+            "banner_image": "https://media.ycharts.com/charts/a55bce087a194354cd2aa8b289b3cf6b.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99246"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.277067,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.052882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.052882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.052882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.052882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.052882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "0.131145",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Mastercard Vs. Visa: Buy, Sell Or Hold? Here's What Technical Analysis Suggest - Mastercard  ( NYSE:MA ) , SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/25/01/43379151/mastercard-vs-visa-should-you-buy-sell-or-hold-heres-what-technical-analysis-suggest",
+            "time_published": "20250131T102236",
+            "authors": [
+                "Rishabh Mishra"
+            ],
+            "summary": "Technical analysis for both stocks indicated overbought contitions. Analysts have consensus 'buy' on both payment companies. Get Wall Street's Hottest Chart Every Morning",
+            "banner_image": "https://editorial-assets.benzinga.com/wp-content/uploads/2025/01/31043122/VISA-tech-chart-1024x576.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.818451"
+                }
+            ],
+            "overall_sentiment_score": 0.303787,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.457977",
+                    "ticker_sentiment_score": "0.324279",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "0.431031",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.192694",
+                    "ticker_sentiment_score": "0.103643",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Every Wall Street Analyst Covering Nvidia Stock Expects It to Head Higher -- Here's Why They May Be Wrong",
+            "url": "https://www.fool.com/investing/2025/01/31/wall-street-analyst-nvidia-stock-head-higher-wrong/",
+            "time_published": "20250131T102100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Is this the ultimate contrarian indicator?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805674%2Fnyse-wall-street-stock-exchange-invest-buy-sell-dow-jones-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.120116,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.0699",
+                    "ticker_sentiment_score": "-0.023505",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.034984",
+                    "ticker_sentiment_score": "0.010879",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.034984",
+                    "ticker_sentiment_score": "0.010879",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.517168",
+                    "ticker_sentiment_score": "0.114715",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Pump.fun Faces Class Action Lawsuit Over Alleged Unregistered Securities Sales",
+            "url": "https://decrypt.co/303790/pump-fun-faces-class-action-lawsuit-over-alleged-500m-unregistered-securities-sales",
+            "time_published": "20250131T101559",
+            "authors": [
+                "Vince Dioquino"
+            ],
+            "summary": "The Solana-based meme coin platform allegedly operated an unauthorized securities exchange, court documents reveal.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/11/Pump-Fun-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.009714,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "INVESTOR DEADLINE MONDAY: Robbins Geller Rudman & Dowd LLP Announces that Symbotic Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - SYM - Symbotic  ( NASDAQ:SYM ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g43379084/investor-deadline-monday-robbins-geller-rudman-dowd-llp-announces-that-symbotic-inc-investors-with",
+            "time_published": "20250131T101534",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN DIEGO, Jan. 31, 2025 ( GLOBE NEWSWIRE ) -- The law firm of Robbins Geller Rudman & Dowd LLP announces that purchasers or acquirers of Symbotic Inc.",
+            "banner_image": "https://ml.globenewswire.com/media/a2879a30-a9fa-457e-97f6-7e2cd2528b7b/small/rgrd-logo-2-jpg.jpg",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.744043"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.77141"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.116571,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SYM",
+                    "relevance_score": "0.783429",
+                    "ticker_sentiment_score": "0.114339",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Did Meta and Microsoft Just Share Bad News for Nvidia Stock Investors?",
+            "url": "https://www.fool.com/investing/2025/01/31/did-meta-and-microsoft-just-share-bad-news-for-nvi/",
+            "time_published": "20250131T101500",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "In this video, I will cover Meta Platforms ( NASDAQ: META ) and Microsoft's recent earnings, comments from management regarding AI spending, and how that could affect Nvidia. Watch the short video to learn more, consider subscribing, and click the special offer link below.*Stock prices used were ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805860/meta.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.101336,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.895116",
+                    "ticker_sentiment_score": "0.261903",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.582526",
+                    "ticker_sentiment_score": "0.218229",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "India now competes with developed nations for FDI, promises high returns, says CEA V. Anantha Nageswaran - ETCFO",
+            "url": "https://cfo.economictimes.indiatimes.com/news/economy/india-now-competes-with-developed-nations-for-fdi-promises-high-returns-says-cea-v-anantha-nageswaran/117786123",
+            "time_published": "20250131T101459",
+            "authors": [
+                "Alekh Shah",
+                "ETCFO"
+            ],
+            "summary": "Ahead of the Union Budget 2025, the Economic Survey 2024-25 raises critical questions: How will India address declining FDI, harness AI's potential in services, and manage inflationary pressures while boosting exports? CEA V. Anantha Nageswaran sheds light on these key challenges and ...",
+            "banner_image": "https://img.etb2bimg.com/files/cp/upload-1716885663-etcfo-default.webp",
+            "source": "Economic Times",
+            "category_within_source": "Economy",
+            "source_domain": "cfo.economictimes.indiatimes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.250736,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Dow Jumps Over 150 Points As Investors Monitor Earnings Reports; Investor Sentiment Improves, Fear & Greed Index Remains In 'Neutral' Zone - Meta Platforms  ( NASDAQ:META ) , Chevron  ( NYSE:CVX ) ",
+            "url": "https://www.benzinga.com/25/01/43379072/dow-jumps-over-150-points-as-investors-monitor-earnings-reports-investor-sentiment-improves-fear-greed-index-rema",
+            "time_published": "20250131T101233",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the \"Neutral\" zone on Thursday. U.S. stocks settled higher on Thursday, with the Dow Jones index gaining more than 150 points as investors assessed the recent earnings reports ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/Market-Sentiment--Fear-And-Greed-Index--.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.024286,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.154538",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.154538",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.154538",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PSX",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.185306",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.093289",
+                    "ticker_sentiment_score": "-0.102029",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Man Group PLC : Form 8.3 - American Axle & Manufacturing Holdings Inc",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018621/0/en/Man-Group-PLC-Form-8-3-American-Axle-Manufacturing-Holdings-Inc.html",
+            "time_published": "20250131T101200",
+            "authors": [
+                "Man Group PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/91104804-f792-492b-830c-0b7f53193a71",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.23066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Why Apple Shares Are Trading Higher; Here Are 20 Stocks Moving Premarket - Aviat Networks  ( NASDAQ:AVNW ) , Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/25/01/43379061/why-apple-shares-are-trading-higher-here-are-20-stocks-moving-premarket",
+            "time_published": "20250131T101147",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "Shares of Apple Inc. AAPL rose sharply in today's pre-market trading after the company reported better-than-expected first-quarter results. Apple reported fiscal first-quarter revenue of $124.3 billion, beating analyst estimates of $124.13 billion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/iPads-Impact-On-Apple_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.857896"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.093816,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AVNW",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "-0.035712",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.284696",
+                    "ticker_sentiment_score": "0.215729",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TDTH",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.20803",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HSEEF",
+                    "relevance_score": "0.072655",
+                    "ticker_sentiment_score": "0.137058",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ORKT",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.139196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CIFR",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.156782",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSN",
+                    "relevance_score": "0.072655",
+                    "ticker_sentiment_score": "0.137058",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OLN",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.249177",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "BZH",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.219265",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "DGNX",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.053167",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EVTV",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.122822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SLNG",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.083115",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ENVB",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BHIL",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.222167",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DECK",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.219265",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SFTBF",
+                    "relevance_score": "0.072655",
+                    "ticker_sentiment_score": "0.126951",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WBA",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.375992",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "NYC",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "-0.083115",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KE",
+                    "relevance_score": "0.215574",
+                    "ticker_sentiment_score": "0.144104",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TEAM",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.249177",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "KITT",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.113037",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CYCN",
+                    "relevance_score": "0.144708",
+                    "ticker_sentiment_score": "0.220513",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia RTX 5090 And 5080 Sell Out Instantly - Scalpers Jack Up Prices To $6,000 As Gamers Face 'Paper Launch' Frustration - NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/25/01/43378899/nvidia-rtx-5090-and-5080-sell-out-instantlyscalpers-jack-up-prices-to-6000-as-gamers-face-paper-launch-frustratio",
+            "time_published": "20250131T100927",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "On Thursday, Nvidia Corporation NVDA launched its RTX 5090 and 5080 graphics cards, only to see them sell out almost immediately. What Happened: The highly anticipated Nvidia Series 5000 GPUs sold out rapidly, leaving many gamers frustrated, reported IGN. The GPUs were anticipated to have limited ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/Nvidia-Jan--7--2025.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.007287,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "EBAY",
+                    "relevance_score": "0.11983",
+                    "ticker_sentiment_score": "0.077324",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.549012",
+                    "ticker_sentiment_score": "-0.212746",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Better Cryptocurrency to Buy With $1,000 Right Now: Solana vs. Shiba Inu",
+            "url": "https://www.fool.com/investing/2025/01/31/better-cryptocurrency-to-buy-with-1000-right-now-s/",
+            "time_published": "20250131T100600",
+            "authors": [
+                "Alex Carchidi"
+            ],
+            "summary": "When comparing the outcome of investing in the primary token of a major blockchain like Solana ( CRYPTO: SOL ) or investing in a silly meme coin like Shiba Inu ( CRYPTO: SHIB ) , the results are often surprising. And for some investors, they might even be frustrating.So let's unpack the ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805445/investors-presents-to-peers.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.995973"
+                }
+            ],
+            "overall_sentiment_score": 0.164016,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CRYPTO:SHIB",
+                    "relevance_score": "0.443626",
+                    "ticker_sentiment_score": "0.205915",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Man Group PLC : Form 8.3 - Dowlais Group plc",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018619/0/en/Man-Group-PLC-Form-8-3-Dowlais-Group-plc.html",
+            "time_published": "20250131T100600",
+            "authors": [
+                "Man Group PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/91104804-f792-492b-830c-0b7f53193a71",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                }
+            ],
+            "overall_sentiment_score": 0.23066,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Chinese start-up Unitree sees humanoid robots in wide commercial use this decade",
+            "url": "https://www.scmp.com/tech/tech-trends/article/3296895/chinese-start-unitree-sees-humanoid-robots-wide-commercial-use-decade",
+            "time_published": "20250131T100013",
+            "authors": [
+                "Wency Chen"
+            ],
+            "summary": "Unitree forecasts a breakthrough in humanoid robot capabilities by 2026, when more clear-cut commercial uses are expected to emerge.",
+            "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/01/29/Clip-Robots-Spring-Festival-Gala-CLEAN.jpg?itok=O_E8Iq0j",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.186955,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.072765",
+                    "ticker_sentiment_score": "0.060748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.211996",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.036051",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "OPTGF",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.211996",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TCTZF",
+                    "relevance_score": "0.03642",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Alibaba's DeepSeek Moment Is Here. Time to Buy the Stock?",
+            "url": "https://www.fool.com/investing/2025/01/31/alibabas-deepseek-moment-is-here-time-to-buy-the-s/",
+            "time_published": "20250131T100000",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "In this video, I will cover the recent updates regarding Alibaba ( NYSE: BABA ) . Watch the short video to learn more, consider subscribing, and click the special offer link below.*Stock prices used were from the trading day of Jan. 29, 2025. The video was published on Jan. 29, 2025.Continue ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805857/logo-sign-in-office-lobby-space_alibaba.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.124283,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.967875",
+                    "ticker_sentiment_score": "0.367347",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Fingerprints and jNet revolutionize digital security with turnkey biometric all-in-one System-in-Package  ( SiP )  module",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018616/0/en/Fingerprints-and-jNet-revolutionize-digital-security-with-turnkey-biometric-all-in-one-System-in-Package-SiP-module.html",
+            "time_published": "20250131T100000",
+            "authors": [
+                "Fingerprint Cards AB"
+            ],
+            "summary": "Los Gatos, USA and Gothenburg, Sweden, 31 January 2025 - Fingerprint Cards AB ( Fingerprints\u2122 ) has announced a collaboration with security software provider jNet Secure. The cutting-edge solution being developed will address security vulnerabilities, such as compromised passwords or ID theft.",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/3926b3ee-38b6-4db5-b4ee-74a880c1b99a",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.396806,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "The Next-Gen Social Network Token: StarSlax  ( SSLX )  Debuts on XT.COM",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g43378801/the-next-gen-social-network-token-starslax-sslx-debuts-on-xt-com",
+            "time_published": "20250131T095855",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "VICTORIA, Seychelles, Jan. 31, 2025 ( GLOBE NEWSWIRE ) -- Hey XTers! XT.COM is ecstatic to introduce StarSlax ( SSLX ) , the token powering Sl8, a next-generation crypto-social network that blends content creation, monetization, and blockchain technology.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/10f05adf-632b-4554-b917-5a4e33e72f43/aaaa.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.983605"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                }
+            ],
+            "overall_sentiment_score": 0.410977,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Billionaire David Tepper of Appaloosa Is Selling a Half-Dozen Trillion-Dollar Companies in Favor of 3 Historically Cheap, Cash-Rich Value Stocks",
+            "url": "https://www.fool.com/investing/2025/01/31/billionaire-david-tepper-selling-trillion-dollar/",
+            "time_published": "20250131T095100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "One of Wall Street's top deep-value investors is looking to the world's No. 2 economy for a good deal.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805500%2Fstock-trader-analyst-fund-manager-buy-sell-chart-decline-bear-market-smartphone-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.905476"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.194932,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.253426",
+                    "ticker_sentiment_score": "0.23052",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.011981",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.011981",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.042953",
+                    "ticker_sentiment_score": "0.010849",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BIDU",
+                    "relevance_score": "0.212301",
+                    "ticker_sentiment_score": "0.280444",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Over 25% of Warren Buffett's $300 Billion Portfolio Is Invested in These 4 Tech Stocks. Here's the Best of the Bunch.",
+            "url": "https://www.fool.com/investing/2025/01/31/over-25-of-warren-buffetts-300-billion-portfolio-i/",
+            "time_published": "20250131T095100",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Warren Buffett and tech stocks go together like... well, they usually don't go together. Buffett famously avoids investing in areas he thinks are outside of his wheelhouse. He readily admits that he has passed on buying great tech stocks in the past simply because he didn't understand their ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805525/buffett21-tmf.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967321"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.306598,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.411176",
+                    "ticker_sentiment_score": "0.359071",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.363768",
+                    "ticker_sentiment_score": "0.179983",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.107495",
+                    "ticker_sentiment_score": "-0.006566",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NU",
+                    "relevance_score": "0.107495",
+                    "ticker_sentiment_score": "0.095543",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VRSN",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.276592",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI )  - Alliance Pharma plc",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018608/0/en/Form-8-5-EPT-RI-Alliance-Pharma-plc.html",
+            "time_published": "20250131T094800",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Want $4,700 in Passive Income? Invest $25,000 in Each of These 3 Midstream Energy Stocks.",
+            "url": "https://www.fool.com/investing/2025/01/31/passive-income-invest-midstream-energy-stocks/",
+            "time_published": "20250131T094800",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Pipelines are like toll roads. And the \"tolls\" the pipeline operators collect generate steady and reliable cash flow.Wouldn't it be nice to own such a cash-cow kind of asset to receive a dependable revenue stream yourself? You can own -- at least partially.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805513/pipeline-welder.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                }
+            ],
+            "overall_sentiment_score": 0.341272,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "D",
+                    "relevance_score": "0.061003",
+                    "ticker_sentiment_score": "0.169054",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ENB",
+                    "relevance_score": "0.353898",
+                    "ticker_sentiment_score": "0.475736",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "ET",
+                    "relevance_score": "0.298023",
+                    "ticker_sentiment_score": "0.35662",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Vivek Ramaswamy Clarifies DOGE Exit Amid Speculation Of Sour Ties To Elon Musk, Shifts Focus To Ohio Governorship Bid: 'You Have to Do It Through Legislation' - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/general/social-media/25/01/43378742/vivek-ramaswamy-clarifies-doge-exit-shifts-focus-to-ohio-governorship-bid-you-got-to-do-it-t",
+            "time_published": "20250131T094717",
+            "authors": [
+                "Kaustubh Bagalkote"
+            ],
+            "summary": "Former Department of Government Efficiency ( DOGE ) co-leader Vivek Ramaswamy has clarified his departure from the organization, emphasizing a strategic pivot toward elected office while addressing speculation about his relationship with Tesla Inc. CEO Elon Musk.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/Vivek-Ramaswamy.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.174725,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.126784",
+                    "ticker_sentiment_score": "0.077577",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "These Are Hands-Down the 2 Safest Quantum Computing Stocks to Buy Right Now",
+            "url": "https://www.fool.com/investing/2025/01/31/these-are-hands-down-the-2-safest-quantum-computin/",
+            "time_published": "20250131T094600",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "Despite some wild swings in recent weeks, quantum computing stocks remain sizzling hot. Shares of Rigetti Computing ( NASDAQ: RGTI ) are up more than elevenfold over the past 12 months. D-Wave Quantum ( NYSE: QBTS ) stock has skyrocketed more than 600%. IonQ's ( NYSE: IONQ ) share price has ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805613/getty-low-risk-safe-safer-conservative-caution-cautious.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.284845,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.281153",
+                    "ticker_sentiment_score": "0.233964",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.281153",
+                    "ticker_sentiment_score": "0.276979",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IONQ",
+                    "relevance_score": "0.18967",
+                    "ticker_sentiment_score": "0.216702",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RGTI",
+                    "relevance_score": "0.142847",
+                    "ticker_sentiment_score": "0.232082",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "QBTS",
+                    "relevance_score": "0.142847",
+                    "ticker_sentiment_score": "0.232082",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI )  - De La Rue plc",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018605/0/en/Form-8-5-EPT-RI-De-La-Rue-plc.html",
+            "time_published": "20250131T094200",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Visual Effects  ( VFX )  Market to Grow by USD 15.24 Billion  ( 2025-2029 ) , Driven by Demand for High-Quality Content, with AI Impacting Market Trends - Technavio",
+            "url": "https://www.benzinga.com/pressreleases/25/01/n43379108/visual-effects-vfx-market-to-grow-by-usd-15-24-billion-2025-2029-driven-by-demand-for-high-quality",
+            "time_published": "20250131T093800",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "NEW YORK, Jan. 31, 2025 /PRNewswire/ -- Report on how AI is redefining market landscape - The global visual effects ( vfx ) market size is estimated to grow by USD 15.24 billion from 2025-2029, according to Technavio. The market is estimated to grow at a CAGR of almost 17.2% during the forecast ...",
+            "banner_image": "https://mma.prnewswire.com/media/2609582/Global_Visual_Effects__Market_2025_2029.jpg",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.355831,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KODK",
+                    "relevance_score": "0.02372",
+                    "ticker_sentiment_score": "0.033398",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.071075",
+                    "ticker_sentiment_score": "0.122426",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CCZ",
+                    "relevance_score": "0.02372",
+                    "ticker_sentiment_score": "0.033398",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DGMDF",
+                    "relevance_score": "0.02372",
+                    "ticker_sentiment_score": "0.033398",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DIS",
+                    "relevance_score": "0.047418",
+                    "ticker_sentiment_score": "0.120555",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Form 8.5  ( EPT/RI )  - Dowlais Group Plc",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018603/0/en/Form-8-5-EPT-RI-Dowlais-Group-Plc.html",
+            "time_published": "20250131T093800",
+            "authors": [
+                "INVESTEC BANK PLC"
+            ],
+            "summary": "FORM ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.160819,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Trading Near Its 52-Week High, Is Roblox Stock Still a Good Buy?",
+            "url": "https://www.fool.com/investing/2025/01/31/trading-near-its-52-week-high-is-roblox-stock-stil/",
+            "time_published": "20250131T093600",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Roblox ( NYSE: RBLX ) has a lot of long-term potential as it scales and expands its operations. While its gaming platform mainly caters to younger audiences, it has been working on making its experiences appeal to a wider and older range of users, which can unlock even more growth opportunities.",
+            "banner_image": "https://media.ycharts.com/charts/e38d68947f002213796a0a2cb614a002.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": 0.147992,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RBLX",
+                    "relevance_score": "0.638154",
+                    "ticker_sentiment_score": "0.162164",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Atlassian Surpasses Q2 Revenue, EPS Forecasts",
+            "url": "https://www.fool.com/data-news/2025/01/31/atlassian-surpasses-q2-revenue-eps-forecasts/",
+            "time_published": "20250131T093504",
+            "authors": [
+                "JesterAI"
+            ],
+            "summary": "Atlassian surpassed expectations in its most recent earnings report, fueled by strong cloud revenue growth.",
+            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/12dd7eff8f7d33af7ed9077c1677cf3f0a80cbee-5120x2880.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.346555,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.131284",
+                    "ticker_sentiment_score": "0.162539",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Will Palantir Stock Crash in 2025?",
+            "url": "https://www.fool.com/investing/2025/01/31/will-palantir-stock-crash-in-2025/",
+            "time_published": "20250131T093500",
+            "authors": [
+                "Will Ebiefung"
+            ],
+            "summary": "With shares up more than 333% over the last 12 months, Palantir Technologies ( NASDAQ: PLTR ) has been a massive beneficiary of generative artificial intelligence ( AI ) , which many believe could revolutionize how people use and interact with big data. But could the AI boom become the AI doom?",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805373%2Fgettyimages-1433587895.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.967321"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.20183,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.06623",
+                    "ticker_sentiment_score": "0.014139",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.06623",
+                    "ticker_sentiment_score": "0.063237",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "0.123807",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "SBM Offshore completes the Share Purchase Agreements with MISC Berhad - SBM Offshore  ( OTC:SBFFF ) , SBM Offshore  ( OTC:SBFFY ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g43378576/sbm-offshore-completes-the-share-purchase-agreements-with-misc-berhad",
+            "time_published": "20250131T093234",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SBM Offshore confirms it has completed the transactions related to the Share Purchase Agreements announced on September 6, 2024 with its partner MISC Berhad for: i ) the acquisition of MISC Berhad's entire effective equity interest in the lease and operating entities related to the FPSO Espirito ...",
+            "banner_image": "https://ml-eu.globenewswire.com/media/ee5e9cd2-c4e5-4feb-8226-bfaf6f5724e6/small/sbm-png.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                }
+            ],
+            "overall_sentiment_score": 0.126426,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "SBM Offshore completes the Share Purchase Agreements with MISC Berhad",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018599/0/en/SBM-Offshore-completes-the-Share-Purchase-Agreements-with-MISC-Berhad.html",
+            "time_published": "20250131T093200",
+            "authors": [
+                "SBM Offshore Amsterdam B.V."
+            ],
+            "summary": "Amsterdam, January ...",
+            "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/ee5e9cd2-c4e5-4feb-8226-bfaf6f5724e6",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.126196,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": []
+        },
+        {
+            "title": "Should You Buy Alibaba Stock Before Feb. 5?",
+            "url": "https://www.fool.com/investing/2025/01/31/should-you-buy-alibaba-stock-before-february-5/",
+            "time_published": "20250131T093100",
+            "authors": [
+                "Parkev Tatevosian",
+                "CFA"
+            ],
+            "summary": "Alibaba ( NYSE: BABA ) is scheduled to provide an investor update that could affect shareholders.*Stock prices used were the afternoon prices of Jan. 27, 2025. The video was published on Jan. 29, 2025.Continue reading ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805783/logo-on-front-lawn-spelled-in-grass_alibaba.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [],
+            "overall_sentiment_score": -0.418955,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BABA",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "-0.548434",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Elevating Connected Automotive Solutions with Cavli's AQ20 Autograde Module",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g43378567/elevating-connected-automotive-solutions-with-cavlis-aq20-autograde-module",
+            "time_published": "20250131T093051",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SAN JOSE, California, Jan. 31, 2025 ( GLOBE NEWSWIRE ) -- Cavli Wireless, a leading innovator in IoT solutions, proudly announces the launch of its latest Autograde AQ20 IoT Module.",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/c033219f-dd9a-4f46-b0b4-d8854997168d/aq20-pr-banner-1-1-.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.419744,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.083687",
+                    "ticker_sentiment_score": "0.139354",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple's Q1 Services Revenue Jump Helps It Beat Analyst Estimates",
+            "url": "https://www.fool.com/data-news/2025/01/31/apple-q1-services-revenue-jump-helps-it-beat-analyst-estimates/",
+            "time_published": "20250131T093004",
+            "authors": [
+                "JesterAI"
+            ],
+            "summary": "Apple reported robust fiscal 2025 first-quarter earnings that beat expectations, despite mixed performance in key segments.",
+            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/1168faab7e78138735b900a7a5e773dc9b38bbbf-2000x1200.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999966"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.379049,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.634063",
+                    "ticker_sentiment_score": "0.577625",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NIO Inc. Announces Completion of the Repurchase Right Offer for Its 0.50% Convertible Senior Notes due 2027 - NIO  ( NYSE:NIO ) ",
+            "url": "https://www.benzinga.com/pressreleases/25/01/g43378549/nio-inc-announces-completion-of-the-repurchase-right-offer-for-its-0-50-convertible-senior-notes-d",
+            "time_published": "20250131T093002",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "SHANGHAI, Jan. 31, 2025 ( GLOBE NEWSWIRE ) -- NIO Inc. NIO HKEX: 9866,NIO ) ( \"NIO\" or the \"Company\" ) , a pioneer and a leading company in the global smart electric vehicle market, today announced that it has completed its previously announced repurchase right offer relating to its 0.50% ...",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.368309,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "0.815635",
+                    "ticker_sentiment_score": "0.589179",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Billionaire Philippe Laffont Just Sold Top Artificial Intelligence Stocks Nvidia and AMD and Piled Into 2 Players Dominating Another High-Growth Billion-Dollar Industry",
+            "url": "https://www.fool.com/investing/2025/01/31/billionaire-philippe-laffont-just-sold-top-artific/",
+            "time_published": "20250131T093000",
+            "authors": [
+                "Adria Cimino"
+            ],
+            "summary": "As founder of Coatue Management, Philippe Laffont oversees $26.9 billion invested in more than 80 stocks, and though he buys players across many sectors, one in particular stands out. The billionaire is known for his investments in innovative companies, and he's generally found them in the area ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F805846%2Fgettyimages-happy-people-gather-around-a-computer.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.307449,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.320974",
+                    "ticker_sentiment_score": "0.315567",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LLY",
+                    "relevance_score": "0.320974",
+                    "ticker_sentiment_score": "0.261037",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.054983",
+                    "ticker_sentiment_score": "0.094826",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.320974",
+                    "ticker_sentiment_score": "0.315567",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVO",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.216456",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "NIO Inc. Announces Completion of the Repurchase Right Offer for Its 0.50% Convertible Senior Notes due 2027",
+            "url": "https://www.globenewswire.com/news-release/2025/01/31/3018597/0/en/NIO-Inc-Announces-Completion-of-the-Repurchase-Right-Offer-for-Its-0-50-Convertible-Senior-Notes-due-2027.html",
+            "time_published": "20250131T093000",
+            "authors": [
+                "NIO Inc."
+            ],
+            "summary": "SHANGHAI, Jan. 31, 2025 ( GLOBE NEWSWIRE ) -- NIO Inc. ( NYSE: NIO. HKEX: 9866. SGX: NIO ) ( \"NIO\" or the \"Company\" ) , a pioneer and a leading company in the global smart electric vehicle market, today announced that it has completed its previously announced repurchase right offer relating to ...",
+            "banner_image": "",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.371677,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "0.890832",
+                    "ticker_sentiment_score": "0.618839",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Costco's Stock Is Near All-Time Highs, but There Could Be Trouble Ahead",
+            "url": "https://www.fool.com/investing/2025/01/31/costcos-stock-is-near-all-time-highs-but-there-cou/",
+            "time_published": "20250131T092500",
+            "authors": [
+                "David Jagielski"
+            ],
+            "summary": "Costco Wholesale ( NASDAQ: COST ) has routinely been a top retail stock to own. It's coming off a stellar performance in 2024, when its shares rallied nearly 39%. And there's good reason for that, as the company has continued to post strong, resilient growth numbers even as other retailers ...",
+            "banner_image": "https://media.ycharts.com/charts/594c7c51af2f26d93482b90ade05d59f.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.623304"
+                }
+            ],
+            "overall_sentiment_score": 0.041823,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.499789",
+                    "ticker_sentiment_score": "0.247858",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Marks White Interiors On Launch Series Of Refreshed Model Y As Sold Out Before Deliveries Begin - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/tech/25/01/43378534/tesla-marks-white-interiors-on-launch-series-of-refreshed-model-y-as-sold-out-before-deliveries-begin",
+            "time_published": "20250131T092459",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "EV giant Tesla Inc TSLA has marked the option for white interiors as sold out on its launch series of the refreshed Model Y vehicle in the U.S., even before deliveries have commenced. What Happened: Tesla launched the refreshed Model Y in the U.S. earlier this month.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/01/31/Tesla-Model-Y.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.110537,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.443626",
+                    "ticker_sentiment_score": "0.127979",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy With $260 in February",
+            "url": "https://www.fool.com/investing/2025/01/31/2-no-brainer-ai-stocks-to-buy-with-260-in-february/",
+            "time_published": "20250131T092200",
+            "authors": [
+                "Anthony Di Pizio"
+            ],
+            "summary": "Artificial intelligence ( AI ) has been one of the hottest segments of the stock market for the last two years. Many investors are focused on pick-and-shovel plays like chip supplier Nvidia, or cloud computing giant Microsoft, but the industry is expanding rapidly and so are the potential ...",
+            "banner_image": "https://media.ycharts.com/charts/fe55f2debc535ec2e68a7abb65f07119.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990999"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.977154"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.181799,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.046095",
+                    "ticker_sentiment_score": "0.217187",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.046095",
+                    "ticker_sentiment_score": "0.217187",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRWD",
+                    "relevance_score": "0.046095",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "S",
+                    "relevance_score": "0.046095",
+                    "ticker_sentiment_score": "-0.05499",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UPST",
+                    "relevance_score": "0.314246",
+                    "ticker_sentiment_score": "0.242461",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PANW",
+                    "relevance_score": "0.092036",
+                    "ticker_sentiment_score": "0.137666",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Carnival an Undervalued Growth Stock?",
+            "url": "https://www.fool.com/investing/2025/01/31/is-carnival-an-undervalued-growth-stock/",
+            "time_published": "20250131T091700",
+            "authors": [
+                "CFA",
+                "Parkev Tatevosian"
+            ],
+            "summary": "The pandemic devasted Carnival Cruise Lines ( NYSE: CCL ) , which nearly shut down its business completely.*Stock prices used were the afternoon prices of Jan. 27, 2025. The video was published on Jan. 29, 2025.Continue reading ...",
+            "banner_image": "https://g.foolcdn.com/editorial/images/805781/gettyimages-200314859-001.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.423337,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "CCL",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "-0.553461",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "4 Reasons to Buy Realty Income Stock Like There's No Tomorrow",
+            "url": "https://www.fool.com/investing/2025/01/31/4-reasons-to-buy-realty-income-stock-like-theres-n/",
+            "time_published": "20250131T091500",
+            "authors": [
+                "James Brumley"
+            ],
+            "summary": "This rarely considered and underperforming ticker is poised for returns that far exceed its peers.",
+            "banner_image": "https://media.ycharts.com/charts/5b57ffa9bf45fdb522e92fd6036bdaf3.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.179738,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "DG",
+                    "relevance_score": "0.044885",
+                    "ticker_sentiment_score": "0.060756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FDX",
+                    "relevance_score": "0.089629",
+                    "ticker_sentiment_score": "0.021088",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HD",
+                    "relevance_score": "0.044885",
+                    "ticker_sentiment_score": "0.060756",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "O",
+                    "relevance_score": "0.306416",
+                    "ticker_sentiment_score": "0.107093",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.089629",
+                    "ticker_sentiment_score": "0.021088",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "UNRATE": [
+        {
+            "realtime_start": "2025-01-10",
+            "realtime_end": "2025-01-10",
+            "date": "2024-08-01",
+            "value": "4.2"
+        },
+        {
+            "realtime_start": "2025-01-10",
+            "realtime_end": "2025-01-10",
+            "date": "2024-09-01",
+            "value": "4.1"
+        },
+        {
+            "realtime_start": "2025-01-10",
+            "realtime_end": "2025-01-10",
+            "date": "2024-10-01",
+            "value": "4.1"
+        },
+        {
+            "realtime_start": "2025-01-10",
+            "realtime_end": "2025-01-10",
+            "date": "2024-11-01",
+            "value": "4.2"
+        },
+        {
+            "realtime_start": "2025-01-10",
+            "realtime_end": "2025-01-10",
+            "date": "2024-12-01",
+            "value": "4.1"
+        }
+    ],
+    "CPIAUCSL": [
+        {
+            "realtime_start": "2025-01-29",
+            "realtime_end": "2025-01-29",
+            "date": "2024-08-01",
+            "value": "314.121"
+        },
+        {
+            "realtime_start": "2025-01-29",
+            "realtime_end": "2025-01-29",
+            "date": "2024-09-01",
+            "value": "314.686"
+        },
+        {
+            "realtime_start": "2025-01-29",
+            "realtime_end": "2025-01-29",
+            "date": "2024-10-01",
+            "value": "315.454"
+        },
+        {
+            "realtime_start": "2025-01-29",
+            "realtime_end": "2025-01-29",
+            "date": "2024-11-01",
+            "value": "316.441"
+        },
+        {
+            "realtime_start": "2025-01-29",
+            "realtime_end": "2025-01-29",
+            "date": "2024-12-01",
+            "value": "317.685"
+        }
+    ],
+    "PCE": [
+        {
+            "realtime_start": "2025-01-31",
+            "realtime_end": "2025-01-31",
+            "date": "2024-08-01",
+            "value": "19905.0"
+        },
+        {
+            "realtime_start": "2025-01-31",
+            "realtime_end": "2025-01-31",
+            "date": "2024-09-01",
+            "value": "20044.1"
+        },
+        {
+            "realtime_start": "2025-01-31",
+            "realtime_end": "2025-01-31",
+            "date": "2024-10-01",
+            "value": "20134.5"
+        },
+        {
+            "realtime_start": "2025-01-31",
+            "realtime_end": "2025-01-31",
+            "date": "2024-11-01",
+            "value": "20253.6"
+        },
+        {
+            "realtime_start": "2025-01-31",
+            "realtime_end": "2025-01-31",
+            "date": "2024-12-01",
+            "value": "20387.2"
+        }
+    ],
+    "DGS10": [
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-23",
+            "value": "4.65"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-24",
+            "value": "4.63"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-27",
+            "value": "4.53"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-28",
+            "value": "4.55"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-29",
+            "value": "4.55"
+        }
+    ],
+    "DGS2": [
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-23",
+            "value": "4.29"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-24",
+            "value": "4.27"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-27",
+            "value": "4.17"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-28",
+            "value": "4.19"
+        },
+        {
+            "realtime_start": "2025-01-30",
+            "realtime_end": "2025-01-30",
+            "date": "2025-01-29",
+            "value": "4.21"
+        }
+    ]
+}
